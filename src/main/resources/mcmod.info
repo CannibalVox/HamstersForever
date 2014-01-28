@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hamstersforever",
+  "name": "Hamsters Forever",
+  "description": "Make Hamsterrific hamsters spawn in every biome in the overworld that has passive mobs.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["CannibalVox"],
+  "credits": "By Cannibalvox (Special Thanks to the B-Team!)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
